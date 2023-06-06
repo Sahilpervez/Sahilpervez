@@ -34,13 +34,14 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Sahilpervez)
 [![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=nodedotjs)](https://app.netlify.com/teams/sahilpervez/overview)
+[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/Sahilpervez)
 [![Netlify](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)](https://app.netlify.com/teams/sahilpervez/overview)
 [![Render](https://img.shields.io/badge/render-black?style=for-the-badge&logo=render)](https://github.com/Sahilpervez)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Sahilpervez)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Sahilpervez)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/Sahilpervez)
+
 
 <p align="center">
   <a href="https://github.com/Sahilpervez">
