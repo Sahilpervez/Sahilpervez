@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -23,8 +23,8 @@
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart&logoColor=blue)](https://https://github.com/Sahilpervez)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=purple)](https://github.com/Sahilpervez)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Sahilpervez)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
-[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS)](https://github.com/Sahilpervez)
+[![HTML5](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/Sahilpervez)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)](https://github.com/Sahilpervez)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Sahilpervez)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Sahilpervez)
 
