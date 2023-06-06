@@ -11,10 +11,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.codechef.com/users/sahilpervez123">
-        <img src="https://img.shields.io/badge/CodeChef-brown?style=flat-square&logo=CodeChef" alt="Kaggle">
+        <img src="https://img.shields.io/badge/CodeChef-brown?style=flat-square&logo=CodeChef" alt="CodeChef">
     </a>
     <a href="https://codeforces.com/profile/Sahilpervez">
-        <img src="https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces" alt="Stepik">
+        <img src="https://img.shields.io/badge/CodeForces-white?style=flat-square&logo=CodeForces" alt="CodeForces">
     </a>
 </p>
 
