@@ -51,9 +51,8 @@
 
 # 📊GitHub Stats :
 ![Sahilpervez's github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Sahilpervez&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Sahilpervez's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Sahilpervezd&theme=calm&hide_border=false)<br/>
+![Sahilpervez's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Sahilpervez&theme=calm&hide_border=false)<br/>
 ![Sahilpervez's most used languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Sahilpervez&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 <!--
 **Sahilpervez/Sahilpervez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
