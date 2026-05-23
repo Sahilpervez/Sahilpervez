@@ -7,11 +7,17 @@
 </h3>
 
 <p align="center">
-  I build clean, fast, and scalable full-stack(Flutter/Expo + GoLang Backend) mobile experiences with AI powered features.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Flutter+%2F+Expo+apps;Designing+GoLang+backend+systems;Exploring+RAG+%2B+MCP+%2B+AI+agents;Working+with+LangChain+%26+LangGraph;Shipping+AI-powered+mobile+experiences" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  Exploring RAG, MCP, LangChain, LangGraph, ML-Ops and building interersting stuff.
+  I build clean, fast, and scalable full-stack <b>Flutter / Expo + GoLang backend</b> mobile experiences with AI-powered features.
+</p>
+
+<p align="center">
+  Exploring <b>RAG</b>, <b>MCP</b>, <b>LangChain</b>, <b>LangGraph</b>, <b>MLOps</b>, AI automations, and building interesting stuff.
 </p>
 
 <p align="center">
@@ -26,19 +32,22 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="80%" alt="Divider" />
+</p>
 
 ## 🚀 About Me
 
 ```dart
 class AlamSahilpervez {
   final String role = "Software Engineer";
-  final String mainStack = "Flutter + Firebase + Supabase";
+  final String mainStack = "Flutter + Expo + GoLang + AI";
   final List<String> interests = [
     "AI-powered mobile apps",
+    "AI automation flows",
     "Realtime collaboration",
     "Mobile performance optimization",
-    "Backend Engineering"
+    "Backend engineering",
     "Clean architecture",
     "Cloud-backed products"
   ];
@@ -75,12 +84,16 @@ Most of my work sits at the intersection of **Flutter**, **Expo**, **GoLang**, *
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,androidstudio,kotlin,apple" alt="Mobile Stack" />
 </p>
 
+**Flutter • Dart • Expo / React Native • Android • iOS**
+
 ---
 
 ### ⚙️ Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=go,nodejs,express,python,fastapi,postgres,mongodb,sqlite,firebase,supabase" alt="Backend Stack" />
 </p>
+
+**GoLang • Node.js • Express • Python • FastAPI • PostgreSQL • MongoDB • Firebase • Supabase**
 
 ---
 
@@ -89,12 +102,16 @@ Most of my work sits at the intersection of **Flutter**, **Expo**, **GoLang**, *
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI Stack" />
 </p>
 
+**AI Automation Flows • RAG • MCP • LangChain • LangGraph • Vector Databases • MLOps / LLMOps**
+
 ---
 
 ### ☁️ DevOps, Cloud & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma,linux,vscode" alt="Tools Stack" />
 </p>
+
+**Docker • AWS • Git • GitHub • Postman • Figma • Linux • VS Code**
 
 ---
 
@@ -120,8 +137,8 @@ Most of my work sits at the intersection of **Flutter**, **Expo**, **GoLang**, *
 - Designed app flows in Figma and built core mobile features
 
 ### 👫 Building Pairly.fit
-- Currently building an MVP named pairly.fit which helps people to find fitness partners nearby
-- Helps users to track their workout, diet and consult Coaches and Nutritionist.
+- Currently building an MVP named **Pairly.fit**, which helps people find fitness partners nearby
+- Helps users track workouts and diet, and consult coaches and nutritionists
 
 ---
 
@@ -162,9 +179,9 @@ Good products solve tiny problems beautifully.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mobile_Apps-Flutter-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Realtime-Chat_&_Video-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI/ML-Mobile_Features-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Firebase_&_Supabase-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automation-Flows-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Knowledge_AI-00C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-Clean_&_Scalable-red?style=for-the-badge" />
 </p>
 
@@ -183,7 +200,9 @@ I’m always happy to connect with developers, designers, founders, students, an
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,50:1F6FEB,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave" />
+</p>
 
 <p align="center">
   <i>“Building mobile experiences that are simple on the surface and thoughtful under the hood.”</i>
