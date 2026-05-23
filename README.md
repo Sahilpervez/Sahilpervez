@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Flutter Engineer • Backend Engineer • Mobile App Builder • AI-Enabled App Explorer
+  Mobile Application Engineer • Backend Engineer • AI-Enabled App Explorer
 </h3>
 
 <p align="center">
@@ -70,30 +70,37 @@ Most of my work sits at the intersection of **Flutter**, **Expo**, **GoLang**, *
 
 ## 🛠️ Tech Stack
 
-### Mobile & App Development
+### 📱 Mobile & Cross-Platform
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,androidstudio,kotlin,apple" alt="Mobile Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,androidstudio,kotlin,apple" alt="Mobile Stack" />
 </p>
 
-### Backend, APIs & Databases
+---
+
+### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,sqlite" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,python,fastapi,postgres,mongodb,sqlite,firebase,supabase" alt="Backend Stack" />
 </p>
 
-### DevOps, Tools & Platforms
+---
+
+### 🤖 AI, Automation & ML
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma,linux,vscode,langchain,langgraph" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI Stack" />
 </p>
 
-### Also Worked With
+---
+
+### ☁️ DevOps, Cloud & Tools
 <p>
-  <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agora-SDK-099DFD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Google_ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_Storage-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,figma,linux,vscode" alt="Tools Stack" />
 </p>
+
+---
+
+### 🧩 Also Worked With
+
+**Riverpod • BLoC • Clean Architecture • REST APIs • WebSockets • Agora SDK • Google ML Kit • FCM • OAuth**
 
 ---
 
